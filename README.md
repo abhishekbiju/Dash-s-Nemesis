@@ -1,2 +1,35 @@
-# Dash-s-Nemesis
-This project is a 2D single player battle royale combat game titled ‘DASH’S NEMESIS’ a couple of my friends and I coded from scratch in Python involving over 2000 lines of code and various mechanisms integrated into the game for a seamless, tailored and professional gameplay experience. The main aim of the game is to defeat the villain (RA-ONE) while you control the protagonist, DASH. The game is complete with graphically designed title and menu screens to keep it aesthetically appealing. The game is controlled using your keyboard with ‘WASD’ for movement and special keys for throwing punches and kicks. Besides these moves we worked hard to integrate 4 individual special power moves with dedicated sprite sheets for seamless animation. We also programmed in a live health bar and charge-up which decided how long you survive the game as well as when you’re permitted to use a power move. To bring it altogether we coded in an SQL integration so that the game tracks the highest scores and displays a leaderboard if you’re able to beat it!
+# DASH'S NEMESIS
+
+Welcome to **DASH'S NEMESIS**, a 2D single-player battle royale combat game meticulously crafted in Python by a dedicated team of developers. This game represents a labor of love, encompassing over 2,000 lines of code and a blend of dynamic gameplay mechanics. Our goal was to create an immersive and professional gaming experience that players of all levels can enjoy.
+
+## Overview
+
+In **DASH'S NEMESIS**, you step into the shoes of the protagonist, DASH, tasked with defeating the villain RA-ONE. The game challenges players with its engaging combat system, requiring skillful navigation, strategic movement, and timely execution of attacks to prevail.
+
+### Key Features
+
+- **Graphical Finesse**: Enjoy engaging title and menu screens, designed to be visually appealing and enhance your gaming experience.
+- **Intuitive Controls**: Navigate DASH with ease using the 'WASD' keys for movement, complemented by specific keys for executing punches and kicks.
+- **Special Power Moves**: Unleash the power of DASH with four unique special moves, each with dedicated sprite sheets for fluid animation.
+- **Live Health Bar and Charge-Up**: Monitor your survival through an on-screen health bar and charge meter, dictating your ability to withstand attacks and execute power moves.
+- **SQL Leaderboard Integration**: Compete for the highest scores. Achieve greatness and see your name on the leaderboard, encouraging a competitive spirit among players.
+
+## Getting Started
+
+To dive into the world of **DASH'S NEMESIS**, simply clone this repository and run the game from your local environment. Ensure you have Python installed and are familiar with basic keyboard controls for gameplay.
+
+```bash
+git clone <repository-url>
+cd dashs-nemesis
+python main.py
+```
+
+## Contributions
+
+We welcome contributions and feedback to enhance **DASH'S NEMESIS**. If you're interested in contributing, please read through our contribution guidelines.
+
+## Acknowledgments
+
+A special thanks to everyone who contributed to the development of **DASH'S NEMESIS**. Your hard work, creativity, and dedication have been instrumental in bringing this project to life.
+
+Enjoy battling RA-ONE and climbing up the leaderboard!
