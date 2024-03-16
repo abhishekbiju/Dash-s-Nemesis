@@ -19,7 +19,7 @@ In **DASH'S NEMESIS**, you step into the shoes of the protagonist, DASH, tasked 
 To dive into the world of **DASH'S NEMESIS**, simply clone this repository and run the game from your local environment. Ensure you have Python installed and are familiar with basic keyboard controls for gameplay.
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/abhishekbiju/Dash-s-Nemesis.git)
 cd dashs-nemesis
 python main.py
 ```
