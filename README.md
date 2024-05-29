@@ -30,6 +30,6 @@ We welcome contributions and feedback to enhance **DASH'S NEMESIS**. If you're i
 
 ## Acknowledgments
 
-A special thanks to everyone who contributed to the development of **DASH'S NEMESIS**. Your hard work, creativity, and dedication have been instrumental in bringing this project to life.
+A special thanks to everyone who contributed to the development of **DASH'S NEMESIS**.
 
 Enjoy battling RA-ONE and climbing up the leaderboard!
